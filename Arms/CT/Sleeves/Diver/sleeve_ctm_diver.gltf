@@ -1,0 +1,450 @@
+{
+  "asset": {
+    "copyright": "",
+    "generator": "Source 2 Viewer 6.0.0.0 - https://valveresourceformat.github.io",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 672,
+      "max": [
+        1.961775302886963,
+        22.529884338378906,
+        18.772994995117188
+      ],
+      "min": [
+        -4.997502326965332,
+        -22.529882431030273,
+        2.9761388301849365
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 672,
+      "max": [
+        0.9802545309066772,
+        0.9877315759658813
+      ],
+      "min": [
+        0.00827051606029272,
+        0.4120609164237976
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 672,
+      "max": [
+        0.9897266030311584,
+        0.9262362718582153,
+        0.7999431490898132
+      ],
+      "min": [
+        -0.9949084520339966,
+        -0.9262363910675049,
+        -0.9715535640716553
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 672,
+      "max": [
+        0.9986253976821899,
+        0.8507524132728577,
+        0.8191231489181519,
+        1
+      ],
+      "min": [
+        -0.9999064803123474,
+        -0.8507524132728577,
+        -0.8555700778961182,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 672,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 672,
+      "max": [
+        1,
+        0.4901960790157318,
+        0.06666667014360428,
+        0.0235294122248888
+      ],
+      "min": [
+        0.5098039507865906,
+        0,
+        0,
+        0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5125,
+      "count": 3408,
+      "type": "SCALAR"
+    },
+    {
+      "name": "Bind Matrices",
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 7,
+      "max": [
+        0.3273715674877167,
+        -0.014421084895730019,
+        0.9997591376304626,
+        0,
+        0.7599377632141113,
+        0.6496236324310303,
+        0.8317518830299377,
+        0,
+        -0.6497836112976074,
+        0.014456137083470821,
+        0.7309651970863342,
+        0,
+        -4.451799392700195,
+        16.683618545532227,
+        20.190887451171875,
+        1
+      ],
+      "min": [
+        -0.005462378729134798,
+        -0.999954342842102,
+        -0.9997591376304626,
+        0,
+        -0.7599391937255859,
+        -0.6496252417564392,
+        0.021944819018244743,
+        0,
+        -0.7679660320281982,
+        -0.7601191997528076,
+        -0.7310482859611511,
+        0,
+        -15.447599411010742,
+        -1.9284790754318237,
+        -20.190698623657227,
+        1
+      ],
+      "type": "MAT4"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 8064,
+      "byteOffset": 35136,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5376,
+      "byteOffset": 51264,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8064,
+      "byteOffset": 43200,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10752,
+      "byteOffset": 13632,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5376,
+      "byteOffset": 56640,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10752,
+      "byteOffset": 24384,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13632,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 448,
+      "byteOffset": 62016
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 62464,
+      "uri": "sleeve_ctm_diver.bin"
+    }
+  ],
+  "images": [
+    {
+      "name": "sleeve_diver_wetsuit_color_psd_39dd7bc9.vtex",
+      "uri": "sleeve_diver_wetsuit_color_psd_39dd7bc9.png"
+    },
+    {
+      "name": "sleeve_diver_wetsuit_normal_psd_270b549f.vtex",
+      "uri": "sleeve_diver_wetsuit_normal_psd_270b549f.png"
+    },
+    {
+      "name": "sleeve_ctm_diver_vmat_g_tmetalness_b70f8f59_orm_609857942.png",
+      "uri": "sleeve_ctm_diver_vmat_g_tmetalness_b70f8f59_orm_609857942.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "name": "sleeve_ctm_diver",
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.737255,
+          0.776471,
+          0.858824,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "sleeve_ctm_diver.vmdl_c.unnamed_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "TEXCOORD_0": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "JOINTS_0": 4,
+            "WEIGHTS_0": 5
+          },
+          "indices": 6,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "sleeve_ctm_diver.vmdl_c",
+      "children": [
+        1,
+        5,
+        7
+      ],
+      "matrix": [
+        3.027916E-09,
+        0,
+        0.025399996,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "arm_lower_r",
+      "children": [
+        2,
+        4
+      ],
+      "rotation": [
+        -0.6570667,
+        0.6586254,
+        0.26257104,
+        0.25599283
+      ],
+      "translation": [
+        -1.6980029,
+        -15.099548,
+        9.668702
+      ]
+    },
+    {
+      "name": "hand_r",
+      "children": [
+        3
+      ],
+      "rotation": [
+        0.70448333,
+        0.007838373,
+        -0.023051575,
+        0.7093028
+      ],
+      "translation": [
+        10.295717,
+        9.417534E-06,
+        -0.000102996826
+      ]
+    },
+    {
+      "name": "finger_thumb_0_r",
+      "rotation": [
+        -0.6199632,
+        -0.19598116,
+        -0.014218293,
+        0.7596281
+      ],
+      "translation": [
+        1.1496305,
+        0.416399,
+        1.4141192
+      ]
+    },
+    {
+      "name": "arm_lower_r_twist",
+      "rotation": [
+        -0.0034150183,
+        5.1777445E-09,
+        -3.7718628E-08,
+        0.99999416
+      ],
+      "translation": [
+        2.193451E-05,
+        7.6293945E-06,
+        -6.67572E-05
+      ]
+    },
+    {
+      "name": "hand_l",
+      "children": [
+        6
+      ],
+      "rotation": [
+        0.6453594,
+        0.28879905,
+        -0.63900226,
+        -0.30295625
+      ],
+      "translation": [
+        -1.7542441,
+        22.62656,
+        2.6443624
+      ]
+    },
+    {
+      "name": "finger_thumb_0_l",
+      "rotation": [
+        0.61996335,
+        0.19598098,
+        -0.014218049,
+        0.75962806
+      ],
+      "translation": [
+        1.149579,
+        0.41644478,
+        -1.4141195
+      ]
+    },
+    {
+      "name": "arm_lower_l_twist",
+      "rotation": [
+        -0.25374812,
+        0.26481935,
+        0.6577248,
+        0.65793675
+      ],
+      "translation": [
+        -1.6980053,
+        15.099545,
+        9.668676
+      ]
+    },
+    {
+      "name": "sleeve_ctm_diver.vmdl_c.unnamed_1",
+      "mesh": 0,
+      "skin": 0
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "scenes": [
+    {
+      "name": "sleeve_ctm_diver.vmdl_c",
+      "nodes": [
+        0,
+        8
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 7,
+      "joints": [
+        1,
+        5,
+        2,
+        6,
+        7,
+        3,
+        4
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "sleeve_diver_wetsuit_color_psd_39dd7bc9.vtex",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "sleeve_diver_wetsuit_normal_psd_270b549f.vtex",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "sleeve_ctm_diver_vmat_g_tmetalness_b70f8f59_orm_609857942.png",
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

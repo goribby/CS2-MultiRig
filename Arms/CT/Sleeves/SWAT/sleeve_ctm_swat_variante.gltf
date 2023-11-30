@@ -1,0 +1,463 @@
+{
+  "asset": {
+    "copyright": "",
+    "generator": "Source 2 Viewer 6.0.0.0 - https://valveresourceformat.github.io",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3001,
+      "max": [
+        2.203540563583374,
+        23.898784637451172,
+        17.343772888183594
+      ],
+      "min": [
+        -4.850649356842041,
+        -23.898786544799805,
+        1.9486048221588135
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3001,
+      "max": [
+        0.9893795847892761,
+        0.9860835671424866
+      ],
+      "min": [
+        0.017914365977048874,
+        0.01348918117582798
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3001,
+      "max": [
+        0.9974057674407959,
+        0.9996861219406128,
+        0.9999638199806213
+      ],
+      "min": [
+        -0.996523916721344,
+        -0.9998730421066284,
+        -0.9984508156776428
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3001,
+      "max": [
+        0.9999600052833557,
+        0.9876683950424194,
+        0.9942182302474976,
+        1
+      ],
+      "min": [
+        -0.9998453855514526,
+        -0.9960077404975891,
+        -0.9875279068946838,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 3001,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 3001,
+      "max": [
+        1,
+        0.4274509847164154,
+        0,
+        0
+      ],
+      "min": [
+        0.572549045085907,
+        0,
+        0,
+        0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5125,
+      "count": 10020,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 5736,
+      "type": "SCALAR"
+    },
+    {
+      "name": "Bind Matrices",
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.016542812809348106,
+        -0.014421084895730019,
+        0.9997591376304626,
+        0,
+        0.7599377632141113,
+        0.6496236324310303,
+        0.6822568774223328,
+        0,
+        -0.6497836112976074,
+        0.014456137083470821,
+        0.7309651970863342,
+        0,
+        -4.451805114746094,
+        16.683549880981445,
+        17.344324111938477,
+        1
+      ],
+      "min": [
+        -0.005462378729134798,
+        -0.9998773336410522,
+        -0.9997591376304626,
+        0,
+        -0.7599391937255859,
+        -0.6496252417564392,
+        0.021944819018244743,
+        0,
+        -0.68226158618927,
+        -0.7601191997528076,
+        -0.7309665679931641,
+        0,
+        -15.44754695892334,
+        -1.9284676313400269,
+        -17.344316482543945,
+        1
+      ],
+      "type": "MAT4"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 36012,
+      "byteOffset": 136112,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24008,
+      "byteOffset": 208136,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 36012,
+      "byteOffset": 172124,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24008,
+      "byteOffset": 232144,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48016,
+      "byteOffset": 48016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 40080,
+      "byteOffset": 96032,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22944,
+      "byteOffset": 256152,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 256,
+      "byteOffset": 279096
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 279352,
+      "uri": "sleeve_ctm_swat_variante.bin"
+    }
+  ],
+  "images": [
+    {
+      "name": "sleeve_swat_leader_gear_color_psd_12b16385.vtex",
+      "uri": "sleeve_swat_leader_gear_color_psd_12b16385.png"
+    },
+    {
+      "name": "sleeve_swat_leader_color_psd_7bd8f3c6.vtex",
+      "uri": "sleeve_swat_leader_color_psd_7bd8f3c6.png"
+    },
+    {
+      "name": "sleeve_swat_leader_gear_normal_psd_c26eafe.vtex",
+      "uri": "sleeve_swat_leader_gear_normal_psd_c26eafe.png"
+    },
+    {
+      "name": "sleeve_swat_leader_gear_ao_psd_751cced7_orm_612652673.png",
+      "uri": "sleeve_swat_leader_gear_ao_psd_751cced7_orm_612652673.png"
+    },
+    {
+      "name": "sleeve_swat_leader_normal_psd_ac9f009c.vtex",
+      "uri": "sleeve_swat_leader_normal_psd_ac9f009c.png"
+    },
+    {
+      "name": "sleeve_ctm_swat_variante_vmat_g_tmetalness_8a7cc089_orm_555631658.png",
+      "uri": "sleeve_ctm_swat_variante_vmat_g_tmetalness_8a7cc089_orm_555631658.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "baseColorTexture": {
+          "index": 1
+        }
+      },
+      "name": "sleeve_ctm_swat_variante",
+      "normalTexture": {
+        "index": 4
+      },
+      "occlusionTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      }
+    },
+    {
+      "extras": {
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "name": "sleeve_ctm_swat_variante_gear",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "sleeve_ctm_swat_variante.vmdl_c.unnamed_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "TEXCOORD_0": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "JOINTS_0": 4,
+            "WEIGHTS_0": 5
+          },
+          "indices": 6,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "TEXCOORD_0": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "JOINTS_0": 4,
+            "WEIGHTS_0": 5
+          },
+          "indices": 7,
+          "material": 1
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "sleeve_ctm_swat_variante.vmdl_c",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "matrix": [
+        3.027916E-09,
+        0,
+        0.025399996,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "hand_l",
+      "rotation": [
+        0.6453594,
+        0.28879905,
+        -0.63900226,
+        -0.30295625
+      ],
+      "translation": [
+        -1.7542441,
+        22.626564,
+        2.6443634
+      ]
+    },
+    {
+      "name": "arm_lower_l_twist",
+      "rotation": [
+        -0.25374812,
+        0.26481935,
+        0.6577248,
+        0.65793675
+      ],
+      "translation": [
+        -1.6980052,
+        15.09955,
+        9.668674
+      ]
+    },
+    {
+      "name": "hand_r",
+      "rotation": [
+        -0.30295703,
+        0.63900185,
+        -0.28879964,
+        0.64535916
+      ],
+      "translation": [
+        -1.754239,
+        -22.626621,
+        2.6444016
+      ]
+    },
+    {
+      "name": "arm_lower_r_twist",
+      "rotation": [
+        0.6579371,
+        -0.6577249,
+        -0.26481864,
+        -0.25374752
+      ],
+      "translation": [
+        -1.6980025,
+        -15.099545,
+        9.668701
+      ]
+    },
+    {
+      "name": "sleeve_ctm_swat_variante.vmdl_c.unnamed_1",
+      "mesh": 0,
+      "skin": 0
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "scenes": [
+    {
+      "name": "sleeve_ctm_swat_variante.vmdl_c",
+      "nodes": [
+        0,
+        5
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 8,
+      "joints": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "sleeve_swat_leader_gear_color_psd_12b16385.vtex",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "sleeve_swat_leader_color_psd_7bd8f3c6.vtex",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "sleeve_swat_leader_gear_normal_psd_c26eafe.vtex",
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "name": "sleeve_swat_leader_gear_ao_psd_751cced7_orm_612652673.png",
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "name": "sleeve_swat_leader_normal_psd_ac9f009c.vtex",
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "name": "sleeve_ctm_swat_variante_vmat_g_tmetalness_8a7cc089_orm_555631658.png",
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}

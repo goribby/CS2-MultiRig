@@ -1,0 +1,390 @@
+{
+  "asset": {
+    "copyright": "",
+    "generator": "Source 2 Viewer 6.0.0.0 - https://valveresourceformat.github.io",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 6282,
+      "max": [
+        1.6244351863861084,
+        23.582189559936523,
+        14.463945388793945
+      ],
+      "min": [
+        -4.694490909576416,
+        -23.582401275634766,
+        2.0986733436584473
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 6282,
+      "max": [
+        0.9808343648910522,
+        0.982879102230072
+      ],
+      "min": [
+        0.018677327781915665,
+        0.36985382437705994
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 6282,
+      "max": [
+        0.9993062615394592,
+        0.9993062615394592,
+        0.9834215641021729
+      ],
+      "min": [
+        -0.999462902545929,
+        -0.998566746711731,
+        -0.996022641658783
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 6282,
+      "max": [
+        1,
+        0.9352701306343079,
+        0.9615240097045898,
+        1
+      ],
+      "min": [
+        -1,
+        -0.9352701306343079,
+        -0.9333333373069763,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 6282,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 6282,
+      "max": [
+        1,
+        0.3921568691730499,
+        0,
+        0
+      ],
+      "min": [
+        0.6078431606292725,
+        0,
+        0,
+        0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5125,
+      "count": 35760,
+      "type": "SCALAR"
+    },
+    {
+      "name": "Bind Matrices",
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.01691220887005329,
+        -0.014420396648347378,
+        0.9996940493583679,
+        0,
+        0.7599377632141113,
+        0.6496071815490723,
+        0.6822568774223328,
+        0,
+        -0.6497851610183716,
+        0.015074645169079304,
+        0.7309651970863342,
+        0,
+        -4.451823711395264,
+        16.683595657348633,
+        17.342700958251953,
+        1
+      ],
+      "min": [
+        -0.005461715627461672,
+        -0.9998773336410522,
+        -0.9997590780258179,
+        0,
+        -0.7598723769187927,
+        -0.6496251225471497,
+        0.021944837644696236,
+        0,
+        -0.68226158618927,
+        -0.760117769241333,
+        -0.7309539318084717,
+        0,
+        -15.447623252868652,
+        -1.9431579113006592,
+        -17.3443603515625,
+        1
+      ],
+      "type": "MAT4"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 75384,
+      "byteOffset": 344064,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 50256,
+      "byteOffset": 494832,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 75384,
+      "byteOffset": 419448,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 100512,
+      "byteOffset": 143040,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 50256,
+      "byteOffset": 545088,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 100512,
+      "byteOffset": 243552,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 143040,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 256,
+      "byteOffset": 595344
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 595600,
+      "uri": "sleeve_balkan.bin"
+    }
+  ],
+  "images": [
+    {
+      "name": "sleeve_balkan_color_psd_e81e319d.vtex",
+      "uri": "sleeve_balkan_color_psd_e81e319d.png"
+    },
+    {
+      "name": "sleeve_balkan_normal_psd_b8b6ca19.vtex",
+      "uri": "sleeve_balkan_normal_psd_b8b6ca19.png"
+    },
+    {
+      "name": "sleeve_balkan_ao_psd_bc863f65_orm_2111103620.png",
+      "uri": "sleeve_balkan_ao_psd_bc863f65_orm_2111103620.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "name": "sleeve_balkan",
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "sleeve_balkan.vmdl_c.v_sleeve_balkan",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "TEXCOORD_0": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "JOINTS_0": 4,
+            "WEIGHTS_0": 5
+          },
+          "indices": 6,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "sleeve_balkan.vmdl_c",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "matrix": [
+        3.027916E-09,
+        0,
+        0.025399996,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "hand_l",
+      "rotation": [
+        0.6453597,
+        0.2887992,
+        -0.63900197,
+        -0.30295616
+      ],
+      "translation": [
+        -1.7542475,
+        22.626717,
+        2.6443396
+      ]
+    },
+    {
+      "name": "arm_lower_l_twist",
+      "rotation": [
+        -0.25374848,
+        0.26481903,
+        0.6577247,
+        0.6579369
+      ],
+      "translation": [
+        -1.6980102,
+        15.099601,
+        9.668684
+      ]
+    },
+    {
+      "name": "hand_r",
+      "rotation": [
+        -0.30415362,
+        0.6394192,
+        -0.28755343,
+        0.64493924
+      ],
+      "translation": [
+        -1.754238,
+        -22.626663,
+        2.644378
+      ]
+    },
+    {
+      "name": "arm_lower_r_twist",
+      "rotation": [
+        0.6580446,
+        -0.6576126,
+        -0.2650971,
+        -0.253469
+      ],
+      "translation": [
+        -1.6980052,
+        -15.099563,
+        9.668708
+      ]
+    },
+    {
+      "name": "sleeve_balkan.vmdl_c.v_sleeve_balkan",
+      "mesh": 0,
+      "skin": 0
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "scenes": [
+    {
+      "name": "sleeve_balkan.vmdl_c",
+      "nodes": [
+        0,
+        5
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 7,
+      "joints": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "sleeve_balkan_color_psd_e81e319d.vtex",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "sleeve_balkan_normal_psd_b8b6ca19.vtex",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "sleeve_balkan_ao_psd_bc863f65_orm_2111103620.png",
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

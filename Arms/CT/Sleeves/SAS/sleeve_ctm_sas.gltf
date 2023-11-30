@@ -1,0 +1,390 @@
+{
+  "asset": {
+    "copyright": "",
+    "generator": "VRF - https://vrf.steamdb.info/",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4468,
+      "max": [
+        1.7092761993408203,
+        23.770395278930664,
+        16.939743041992188
+      ],
+      "min": [
+        -4.581422328948975,
+        -23.782100677490234,
+        2.0780081748962402
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4468,
+      "max": [
+        0.9865718483924866,
+        0.9863582253456116
+      ],
+      "min": [
+        0.01342814415693283,
+        0.41016876697540283
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4468,
+      "max": [
+        0.9998700022697449,
+        0.9954080581665039,
+        0.9722288846969604
+      ],
+      "min": [
+        -0.9998700022697449,
+        -0.9954080581665039,
+        -0.9960377216339111
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4468,
+      "max": [
+        0.9998700022697449,
+        0.9834215641021729,
+        0.9179359674453735,
+        1
+      ],
+      "min": [
+        -0.9998700022697449,
+        -0.9834215641021729,
+        -0.8930777907371521,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 4468,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 4468,
+      "max": [
+        1,
+        0.49803921580314636,
+        0,
+        0
+      ],
+      "min": [
+        0.501960813999176,
+        0,
+        0,
+        0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5125,
+      "count": 25326,
+      "type": "SCALAR"
+    },
+    {
+      "name": "Bind Matrices",
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.016543244943022728,
+        -0.014420396648347378,
+        0.9997590184211731,
+        0,
+        0.7599377632141113,
+        0.649623692035675,
+        0.6822568774223328,
+        0,
+        -0.6497835516929626,
+        0.01445517223328352,
+        0.7309651970863342,
+        0,
+        -4.45182466506958,
+        16.683595657348633,
+        17.34433364868164,
+        1
+      ],
+      "min": [
+        -0.005461715627461672,
+        -0.9998774528503418,
+        -0.9997590780258179,
+        0,
+        -0.7599390745162964,
+        -0.6496251225471497,
+        0.021944837644696236,
+        0,
+        -0.68226158618927,
+        -0.7601190805435181,
+        -0.7309667468070984,
+        0,
+        -15.447623252868652,
+        -1.9284625053405762,
+        -17.3443603515625,
+        1
+      ],
+      "type": "MAT4"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 53616,
+      "byteOffset": 244280,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 35744,
+      "byteOffset": 351512,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 53616,
+      "byteOffset": 297896,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 71488,
+      "byteOffset": 101304,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 35744,
+      "byteOffset": 387256,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 71488,
+      "byteOffset": 172792,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 101304,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 256,
+      "byteOffset": 423000
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 423256,
+      "uri": "sleeve_ctm_sas.bin"
+    }
+  ],
+  "images": [
+    {
+      "name": "sleeve_sas_color_psd_b45d8ff2.vtex",
+      "uri": "sleeve_sas_color_psd_b45d8ff2.png"
+    },
+    {
+      "name": "sleeve_sas_normal_psd_b5d490b7.vtex",
+      "uri": "sleeve_sas_normal_psd_b5d490b7.png"
+    },
+    {
+      "name": "sleeve_sas_ao_psd_e8317d98_orm_1930950427.png",
+      "uri": "sleeve_sas_ao_psd_e8317d98_orm_1930950427.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "name": "sleeve_ctm_sas",
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "sleeve_ctm_sas.vmdl_c.unnamed_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "TEXCOORD_0": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "JOINTS_0": 4,
+            "WEIGHTS_0": 5
+          },
+          "indices": 6,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "sleeve_ctm_sas.vmdl_c",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "matrix": [
+        3.027916E-09,
+        0,
+        0.025399996,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "hand_l",
+      "rotation": [
+        0.6453597,
+        0.2887992,
+        -0.63900197,
+        -0.30295616
+      ],
+      "translation": [
+        -1.7542475,
+        22.626717,
+        2.6443396
+      ]
+    },
+    {
+      "name": "arm_lower_l_twist",
+      "rotation": [
+        -0.25374848,
+        0.26481903,
+        0.6577247,
+        0.6579369
+      ],
+      "translation": [
+        -1.6980102,
+        15.099601,
+        9.668684
+      ]
+    },
+    {
+      "name": "hand_r",
+      "rotation": [
+        -0.30295694,
+        0.63900167,
+        -0.2887997,
+        0.64535946
+      ],
+      "translation": [
+        -1.7542372,
+        -22.626646,
+        2.6443806
+      ]
+    },
+    {
+      "name": "arm_lower_r_twist",
+      "rotation": [
+        0.65793717,
+        -0.65772486,
+        -0.26481837,
+        -0.25374767
+      ],
+      "translation": [
+        -1.6980045,
+        -15.099554,
+        9.668703
+      ]
+    },
+    {
+      "name": "sleeve_ctm_sas.vmdl_c.unnamed_1",
+      "mesh": 0,
+      "skin": 0
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "scenes": [
+    {
+      "name": "sleeve_ctm_sas.vmdl_c",
+      "nodes": [
+        0,
+        5
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 7,
+      "joints": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "sleeve_sas_color_psd_b45d8ff2.vtex",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "sleeve_sas_normal_psd_b5d490b7.vtex",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "sleeve_sas_ao_psd_e8317d98_orm_1930950427.png",
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
