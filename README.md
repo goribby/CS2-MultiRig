@@ -1,5 +1,5 @@
 # Download
-Click the Code button and download as .zip.
+Download the .zip from the latest release in the [Releases](https://github.com/goribby/CS2-MultiRig/releases) page.
 
 Extract the file and open the "CS2_MultiRig.blend".
 
