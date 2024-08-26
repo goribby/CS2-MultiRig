@@ -15,3 +15,7 @@ It features every Glove and Arms models, as well as every glove skin in the game
 If you didn't find this through Youtube, you can watch the video showcase:
 
 [![Video Showcase](http://img.youtube.com/vi/HMAQGYz9w5s/0.jpg)](http://www.youtube.com/watch?v=HMAQGYz9w5s "Video Showcase")
+
+You can also check out what's new in the 2.0 Update here:
+
+[![Video Showcase](https://img.youtube.com/vi/stVciAyKArY/0.jpg)](https://www.youtube.com/watch?v=stVciAyKArY "2.0 Update")
