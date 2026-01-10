@@ -1,5 +1,5 @@
 # Download
-1. Download the .zip from the latest release in the [Releases](https://github.com/goribby/CS2-MultiRig/releases) page.
+1. Download the .zip from [Gumroad](https://goribby.gumroad.com/l/cs2-multirig).
 
 2. Extract the file and open the "CS2_MultiRig.blend".
 
